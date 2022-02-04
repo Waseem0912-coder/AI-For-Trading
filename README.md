@@ -1,6 +1,6 @@
 # Artificial Intelligence for Trading Nanodegree
 
-<img src="images/AI_for_Trading.png" width="500">
+<img src="Certif.png" width="500">
 
 [Source](https://www.businesswire.com/news/home/20180816005146/en/WorldQuant-Udacity-Partner-Offer-Artificial-Intelligence-Trading)
 
